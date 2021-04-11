@@ -1,6 +1,6 @@
 # Student Management System.
 
-Tech stack : PHP, MySQL, XAMPP, Apache.
+***Tech stack : PHP, MySQL, XAMPP, Apache.***
 
 This website was developed during Software Engineering laboratory classes in college, using PHP, MySQL, XAMPP, Apache.
 
@@ -27,4 +27,11 @@ This website was developed during Software Engineering laboratory classes in col
 	- style.css
 	- login.php
 	- login_do.php
+
+## Demo Video:
+
+<video width="320" height="240" controls>
+  <source src="https://user-images.githubusercontent.com/44949134/114293313-b109d580-9ab2-11eb-8f9f-f784d2f1d87c.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
