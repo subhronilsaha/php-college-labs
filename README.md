@@ -30,8 +30,5 @@ This website was developed during Software Engineering laboratory classes in col
 
 ## Demo Video:
 
-<video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/44949134/114293313-b109d580-9ab2-11eb-8f9f-f784d2f1d87c.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="github_demo/demo_video.gif">
 
