@@ -28,7 +28,4 @@ This website was developed during Software Engineering laboratory classes in col
 	- login.php
 	- login_do.php
 
-## Demo Video:
-
-<img src="github_demo/demo_video.gif">
 
